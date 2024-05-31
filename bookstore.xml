@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookstore SYSTEM "bookstore.dtd">
+<?xml-stylesheet type="text/xsl" href="bookstore.xsl"?>
+<bookstore>
+    <book>
+        <title>XML Developer's Guide</title>
+        <author>Author One</author>
+        <year>2000</year>
+        <price>44.95</price>
+    </book>
+    <book>
+        <title>Learning XML</title>
+        <author>Author Two</author>
+        <year>2003</year>
+        <price>39.95</price>
+    </book>
+</bookstore>
